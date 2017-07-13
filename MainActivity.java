@@ -53,6 +53,9 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
     String fileName;
     FileWriter fWriter;
     File file;
+
+    //added random comment
+
     //Array matrix for calculation orientation
     private float[] mGravity = new float[3];
     private float[] mGeomagnetic = new float[3];
