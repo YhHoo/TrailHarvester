@@ -55,6 +55,7 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
     File file;
 
     //added random comment
+    //asdadsasdsadasd
 
     //Array matrix for calculation orientation
     private float[] mGravity = new float[3];
